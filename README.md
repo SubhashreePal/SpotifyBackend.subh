@@ -7,3 +7,5 @@ The goal of this project is to practice backend development by implementing feat
 2. install all the required packages like mongoose, express, dotenv, cookieParser, axious,etc
 3. add important credentials to .env file to keep it all hidden (because all the credentials are for personal use only)
 4. keep it hidden from uploading or sharing with anyone using .gitignore , to prevent user from security concerns.
+5. require the packages, use it and start the server (while including the port) to check if the server is running well or not.
+6. to check if the server is running well is not, in the terminal write "npx nodemon server.js" to check and the to directly run the server even after the changes are made.
