@@ -1,7 +1,7 @@
 **SPOTIFY BACKEND PROJECT**
 This project is a backend application inspired by Spotify.
 
-The goal of this project is to practice backend development by implementing features such as user registration, authentication, playlist management, song management, artist management and search functionality.This is an easy backend project to help understand the concepts of backend
+The goal of this project is to practice backend development by implementing features such as user registration, authentication, playlist management, song management, artist management and search functionality.This is an easy backend project to help understand the concepts of backend development
 
 ###STEPS - 
 
